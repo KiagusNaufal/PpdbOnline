@@ -8,12 +8,7 @@
         "php": "^8.2",
         "laravel/framework": "^11.9",
         "laravel/sanctum": "^4.0",
-<<<<<<< HEAD
         "laravel/tinker": "^2.9"
-=======
-        "laravel/tinker": "^2.9",
-        "tymon/jwt-auth": "2.1.1"
->>>>>>> 2bf7cf19672ecb16ab0ebc895bf46d981d6b9f7d
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
